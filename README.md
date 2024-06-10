@@ -1,6 +1,6 @@
-# tendal
+# tendbal
 
-# Run Webservice
+**#**Run Webservice**
 **#Use these steps for running this flask server**  
 **#You must have a working python on your machine > 3.10**  
 
